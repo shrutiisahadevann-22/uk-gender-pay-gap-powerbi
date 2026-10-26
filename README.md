@@ -3,7 +3,7 @@
 A self-initiated Power BI dashboard analysing three years of UK government gender pay gap reporting.
 
 ## Business question
-How large is the UK gender pay gap, how has it changed(biggest and small gaps), and where is it widest(where does it come from)?
+How large is the UK gender pay gap, how has it changed(biggest and small gaps), and where is it widest(where does it come from?)
 
 ## Data
 - 33,680 employer gender pay gap reports over 3 years, from UK government open data

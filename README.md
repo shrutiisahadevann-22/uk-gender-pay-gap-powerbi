@@ -18,7 +18,7 @@ How large is the UK gender pay gap, how has it changed over time and which indus
 ## Key findings
 - The UK median gender pay gap fell only from **8.9% to 8.0%** in two years
 - The gap is widest in **Education, Construction and Finance**
-- Women were under-represented in the top-paid quarter in **all 18 industries** analysed
+- Women were under-represented in the top-paid quarter in **all 18 industries** analysed (industries with fewer than 50 employers and employers with no industry stated, were excluded to keep the comparison reliable)
 
 ## Files
 - [`uk-gender-pay-gap-dashboard.pdf`](uk-gender-pay-gap-dashboard.pdf): full dashboard export
